@@ -37,5 +37,5 @@
 
 ## Onde me encontrar
 
-[![Instagram](https://img.shields.io/badge/-@otaviovzz-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/otaviovzz)](https://instagram.com/otaviovzz)
-[![Linkedin](https://img.shields.io/badge/-otavio-rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/otavio-rodrigues-039819291)](www.linkedin.com/in/otavio-rodrigues-039819291)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/otaviovzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-rodrigues-039819291)
